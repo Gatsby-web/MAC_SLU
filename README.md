@@ -4,6 +4,6 @@
 
 * Available in https://huggingface.co/datasets/Gatsby1984/MAC_SLU
 
-## Evaluation Codes
+## Codes
 
-* Comming soon
+* Coming soon
