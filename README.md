@@ -59,13 +59,18 @@ python slu_icl.py \
     --provider local \
     --input-file /path/to/test_set.jsonl \
     --audio-dir /path/to/audio_test_directory \
-    --output-file /path/to/result.jsonl \
+    --output-file /path/to/prediction.jsonl \
     --model-name Qwen2.5-Omni-7B \
     --api-base http://0.0.0.0:12355/v1
 ```
 
   * **Note:** For other models, you may need to change `--model-name` and the model path in the `vllm serve` command. To use a commercial API, change `--provider` to the appropriate name and configure the necessary API keys.
 
+**Step 3: Evaluation**
+
+```bash
+python metrics.py prediction.jsonl icl_label.jsonl
+```
 -----
 
 ### Supervised Fine-Tuning (SFT)
