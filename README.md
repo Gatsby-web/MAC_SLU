@@ -1,5 +1,13 @@
 # MAC-SLU: A Benchmark for Multi-Intent Spoken Language Understanding in Automotive Cabins
 
+<p align="center">
+    <a href="https://arxiv.org/abs/2512.01603"><img src="https://img.shields.io/badge/arXiv-Paper-brightgreen" alt="arXiv Paper"></a>
+    <a href="https://huggingface.co/datasets/Gatsby1984/MAC_SLU"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow" alt="HuggingFace Dataset"></a>
+    <a href="https://github.com/Gatsby-web/MAC_SLU"><img src="https://img.shields.io/badge/GitHub-Repo-lightgreen" alt="GitHub Repo"></a>
+</p>
+
+---
+
 [](https://huggingface.co/datasets/Gatsby1984/MAC_SLU)
 [](https://www.python.org/downloads/release/python-3100/)
 
