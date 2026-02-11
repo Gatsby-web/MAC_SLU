@@ -11,7 +11,9 @@
 [](https://huggingface.co/datasets/Gatsby1984/MAC_SLU)
 [](https://www.python.org/downloads/release/python-3100/)
 
-This repository contains the code and resources for **MAC-SLU**, a benchmark designed to evaluate Spoken Language Understanding systems on complex, multi-intent user commands within an automotive environment.
+This repository contains the code and resources for **MAC-SLU**, a benchmark introduced in our paper [**"MAC-SLU: A Benchmark for Multi-Intent Spoken Language Understanding in Automotive Cabins"**](https://arxiv.org/abs/2512.01603). 
+
+This work is designed to evaluate Spoken Language Understanding (SLU) systems on complex, multi-intent user commands within an automotive environment. For more technical details and experimental results, please refer to our full paper.
 
 ## 🚀 Getting Started
 
